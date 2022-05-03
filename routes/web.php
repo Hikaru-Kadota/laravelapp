@@ -32,7 +32,7 @@ h1 { font-size:100pt; text-align:right; color:#eee;
 <body>
    <h1>Hello</h1>
    <p>{$msg}</p>
-   <p>これは、サンプルで作ったページです。</p>
+   <p>これは、サンプルで作っていたページです。</p>
 </body>
 </html>
 EOF;
